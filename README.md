@@ -14,11 +14,11 @@ I think I'm ready to take my first job as a **Front End Developer** :blush:
         
  ### :desktop_computer: You can check out some of my projects: 
   
- -  React Kanban Table     
- -  Redux Calendar Meeting
--  Javascript Excursion Platform 
- -  HTML CSS RWD Landing Page
- -  React Routing Prismatic blog 
+ -  [React Kanban Table](https://github.com/annakrolikowska/react-kanban)     
+ -  [Redux Calendar Meeting](https://github.com/annakrolikowska/react-redux-calendar)
+-  [Javascript Excursion Platform](https://github.com/annakrolikowska/excursions-platform) 
+ -  [HTML CSS RWD Landing Page](https://github.com/annakrolikowska/rwd-landing-page)
+ -  [React Routing Prismatic blog](https://github.com/annakrolikowska/prismatic-blog)
 
  
  ### :hammer_and_pick: Languages and Tools :
