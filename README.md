@@ -8,8 +8,8 @@
   
  ### :raising_hand_woman: About me: 
   
-I am currently working in accounting. However, I wanted to learn something new and grow in a new field, so I decided to re-brand myself. At the beginning of the year, I started an 8-month mentoring program. After finishing it, I'm still self-training and creating new projects. In adition, I also began to learn how to create designs and prototypes in Figma.
-I think I'm ready to take my first job as a **Front-End Developer** :blush:
+I am currently working in accounting. However, I wanted to learn something new and grow in a new field, so I decided to re-brand myself. At the beginning of 2022, I started an 8-month mentoring program. After finishing it, I'm still self-training and creating new projects. In adition, I also began to learn how to create designs and prototypes in Figma.
+I think I'm ready to take my first job as a Junior **Front-End Developer** :blush:
 
         
  ### :desktop_computer: You can check out some of my projects: 
