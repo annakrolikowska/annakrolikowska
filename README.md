@@ -32,6 +32,7 @@ I think I'm ready to take my first job as a Junior **Front-End Developer** :blus
   <img src="https://raw.githubusercontent.com/devicons/devicon/d98a72cb9a6d8e543ddbddc32bac231572349e96/icons/webpack/webpack-original.svg" title="Webpack"             alt="Webpack" width="45" height="45"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="45" height="45"/>
   <img src="https://avatars.githubusercontent.com/u/20658825?s=200&v=4" title="Styled components" alt="Styled components" width="45" height="45"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" title="SCSS" alt="SCSS" width="45" height="45"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="45" height="45"/>
     
 </div>
