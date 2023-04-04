@@ -3,13 +3,15 @@
 #### I'm Ania and I'm an aspiring Front-end Developer     
 <!--  <div>
     <img src="https://c.tenor.com/qnS4hoUXnQMAAAAC/pusheen.gif" width='200px'/>
-</div>
- -->
+</div> -->
+
   
  ### :raising_hand_woman: About me: 
+ Ambitious ❤️ Self-Motivated ❤️ Fast learner ❤️ Detail-oriented
+ 
   
-I wanted to find a more interesting job and learn something new, so I decided to change my career path. At the beginning of 2022, I started a 8-month mentoring program. After finishing it, I'm still self-training and creating new projects. In adition, I also began to learn how to create designs and prototypes in Figma.
-I think I'm ready to take my first job as a Junior **Front-End Developer** :blush:
+I wanted to find a more interesting job and learn something new, so I decided to change my career path. At the beginning of 2022, I started an 8-month mentoring program focused on Javascript & React. After finishing it, I am still learning and strengthening my skills in this field by creating smaller and larger projects. In addition, I have gained ability in creating  UI Designs using Figma, as it is important to me that my frontend projects are visually appealing as well.
+I am open to new technologies and am actively seeking my first job as a Junior **Front-End Developer** :blush:
 
         
  ### :desktop_computer: You can check out some of my projects: 
