@@ -12,7 +12,7 @@
 I wanted to find a more interesting job and learn something new, so I decided to change my career path. At the beginning of 2022, I started an 8-month mentoring program focused on Javascript & React. After finishing it, I am still learning and strengthening my skills in this field by creating smaller and larger projects. In addition, I have gained ability in creating  UI Designs using Figma, as it is important to me that my frontend projects are visually appealing as well.
 I am open to new technologies and am actively seeking my first job as a Junior **Front-End Developer** :blush:
 
- [**Check out your portfolio website** 💕]( annakrolikowska.github.io/portfolio/)
+ [**Check out your portfolio website** 💕](annakrolikowska.github.io/portfolio/)
         
  ### :desktop_computer: You can check out some of my projects: 
   
