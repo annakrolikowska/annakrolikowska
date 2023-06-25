@@ -16,10 +16,10 @@ I am open to new technologies and am actively seeking my first job as a Junior *
 
  ### :desktop_computer: You can check out some of my projects: 
   
- -  [React Kanban Board](https://github.com/annakrolikowska/kanban-board)     
+ -  [React Redux Kanban Board](https://github.com/annakrolikowska/kanban-board)
+ -  [HTML CSS JS Landing Page](https://github.com/annakrolikowska/mazury-website)
  -  [Redux Calendar Meeting](https://github.com/annakrolikowska/react-redux-calendar)
 -  [Javascript Excursion Platform](https://github.com/annakrolikowska/excursions-platform) 
- -  [HTML CSS RWD Landing Page](https://github.com/annakrolikowska/rwd-landing-page)
  -  [React Routing Prismatic blog (headless CMS)](https://github.com/annakrolikowska/prismatic-blog)
 
  
