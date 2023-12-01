@@ -10,7 +10,7 @@
  
   
 I wanted to find a more interesting job and learn something new, so I decided to change my career path. At the beginning of 2022, I started an 8-month mentoring program focused on Javascript & React. After finishing it, I am still learning and strengthening my skills in this field by creating smaller and larger projects. In addition, I have gained ability in creating  UI Designs using Figma, as it is important to me that my frontend projects are visually appealing as well.
-I am open to new technologies and am actively seeking my first job as a Junior **Front-End Developer** :blush:
+📖 In October, I started postgraduate studies in Web Application Programming at AGH, allowing me to expand my knowledge not only in frontend but also in backend languages and databases.
 
  [**Check out my portfolio website** 💕](https://annakrolikowska.github.io/portfolio/)
 
@@ -25,9 +25,9 @@ I am open to new technologies and am actively seeking my first job as a Junior *
  
  ### :hammer_and_pick: Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,sass,styledcomponents,webpack,git,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,sass,styledcomponents,tailwindcss,bootstrap,webpack,git,figma)](https://skillicons.dev)
 
-###### JavaScript • React • Redux • HTML • CSS • SCSS • Styled Components • Webpack • Git • Figma
+###### JavaScript • React • Redux • HTML • CSS • SCSS • Styled Components • TailwindCSS • Bootstrap •Webpack • Git • Figma
 
 
  ### :mailbox: Feel free to contact me:
