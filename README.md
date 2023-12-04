@@ -30,7 +30,7 @@ I wanted to find a more interesting job and learn something new, so I decided to
 ###### JavaScript • React • Redux • HTML • CSS • SCSS • Styled Components • TailwindCSS • Bootstrap •Webpack • Git • Figma
 
 
- ### :mailbox: Feel free to contact me:
+ ### 📫 Feel free to contact me:
  krolikowska.ann@gmail.com or [LinkedIn](https://www.linkedin.com/in/krolikowska-ann/)  
 
 
