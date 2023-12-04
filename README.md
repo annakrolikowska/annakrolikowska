@@ -1,11 +1,11 @@
     
 ### Hi there 👋
 #### I'm Ania and I'm an aspiring Front-end Developer     
-<!--  <div>
+ <div>
     <img src="https://c.tenor.com/qnS4hoUXnQMAAAAC/pusheen.gif" width='200px'/>
-</div> -->
+</div>
 
- ### :raising_hand_woman: About me: 
+ ### 🙋‍♀️ About me: 
  Ambitious ❤️ Self-Motivated ❤️ Fast learner ❤️ Detail-oriented
  
   
@@ -14,7 +14,7 @@ I wanted to find a more interesting job and learn something new, so I decided to
 
  [**Check out my portfolio website** 💕](https://annakrolikowska.github.io/portfolio/)
 
- ### :desktop_computer: You can check out some of my projects: 
+ ### 🖥️ You can check out some of my projects: 
   
  -  [React Redux Kanban Board](https://github.com/annakrolikowska/kanban-board)
  -  [HTML CSS JS Landing Page](https://github.com/annakrolikowska/mazury-website)
@@ -23,7 +23,7 @@ I wanted to find a more interesting job and learn something new, so I decided to
  -  [React Routing Prismatic blog (headless CMS)](https://github.com/annakrolikowska/prismatic-blog)
 
  
- ### :hammer_and_pick: Languages and Tools :
+ ### ⚒️ Languages and Tools :
 
 [![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,sass,styledcomponents,tailwindcss,bootstrap,webpack,git,figma)](https://skillicons.dev)
 
