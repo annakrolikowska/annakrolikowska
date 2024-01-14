@@ -12,8 +12,6 @@
 I wanted to find a more interesting job and learn something new, so I decided to change my career path. At the beginning of 2022, I started an 8-month mentoring program focused on Javascript & React. After finishing it, I am still learning and strengthening my skills in this field by creating smaller and larger projects. In addition, I have gained ability in creating  UI Designs using Figma, as it is important to me that my frontend projects are visually appealing as well.
 📖 In October, I started postgraduate studies in Web Application Programming at AGH, allowing me to expand my knowledge not only in frontend but also in backend languages and databases.
 
- [**Check out my portfolio website** 💕](https://annakrolikowska.github.io/portfolio/)
-
  
  ### ⚒️ Languages and Tools :
 
