@@ -14,14 +14,6 @@ I wanted to find a more interesting job and learn something new, so I decided to
 
  [**Check out my portfolio website** 💕](https://annakrolikowska.github.io/portfolio/)
 
- ### 🖥️ You can check out some of my projects: 
-  
- -  [React Redux Kanban Board](https://github.com/annakrolikowska/kanban-board)
- -  [HTML CSS JS Landing Page](https://github.com/annakrolikowska/mazury-website)
- -  [Redux Calendar Meeting](https://github.com/annakrolikowska/react-redux-calendar)
--  [Javascript Excursion Platform](https://github.com/annakrolikowska/excursions-platform) 
- -  [React Routing Prismatic blog (headless CMS)](https://github.com/annakrolikowska/prismatic-blog)
-
  
  ### ⚒️ Languages and Tools :
 
