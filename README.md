@@ -8,6 +8,6 @@
  
  ### ⚒️ Languages and Tools :
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,redux,html,css,sass,styledcomponents,tailwindcss,bootstrap,webpack,git,figma,webflow)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,redux,angular,html,css,sass,styledcomponents,tailwindcss,bootstrap,webpack,git,figma,webflow)](https://skillicons.dev)
 
-###### JavaScript • React • Redux • HTML • CSS • SCSS • Styled Components • TailwindCSS • Bootstrap •Webpack • Git • Figma • Webflow
+###### JavaScript • React • Redux • Angular • HTML • CSS • SCSS • Styled Components • TailwindCSS • Bootstrap •Webpack • Git • Figma • Webflow
