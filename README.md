@@ -3,7 +3,6 @@
 
 I have been learning frontend development since early 2022 and really enjoy it ❤️. I focus on creating user-friendly web applications. I have commercial experience with Angular and React, and I also occasionally build landing pages for friends. I'm always eager to learn new technologies and improve my skills. I have basic knowledge of Google Cloud Platform, having completed two certifications. In my free time, I like to stay active, especially by running, which helps me clear my mind. 
 
-Feel free to check out my [portfolio website](https://annakrolikowska.github.io/portfolio/).
 
   <br>
 
