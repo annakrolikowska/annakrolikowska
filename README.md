@@ -81,5 +81,5 @@ I have been learning frontend development since early 2022 and really enjoy it â
 </div>
  <br>
  <div align="center">
-<img src="https://i.ibb.co/9HwDSrWS/image-46-1.png" alt="girl with cats" width="400px" />
+<img src="https://i.ibb.co/9HwDSrWS/image-46-1.png" alt="girl with cats" width="250px" />
 </div>
